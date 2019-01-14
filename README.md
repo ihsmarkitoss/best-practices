@@ -1,10 +1,10 @@
-![alt text](/static/horizontal-beeva-logo.png "BEEVA")
-
 # Best Practices at IHS Markit
 
 Here is the list of best practices, guidelines, codestyles and recommendations that we follow and encourage at IHS Markit, please read the contrib [guidelines](#contrib-guidelines) before sending your pull request with your content.
 
 If you think any information is wrong or missing please write us an email or directly create an issue inside this repo.
+
+Content was started by forking from https://github.com/beeva/beeva-best-practices
 
 ## Areas covered
 
